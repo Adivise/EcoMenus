@@ -1,25 +1,12 @@
-# EcoMenus
-
-Spigot GUI plugin
-
-<p>
-    <a href="https://discord.gg/ZcwpSsE/" alt="Discord">
-        <img src="https://img.shields.io/discord/452518336627081236?label=discord&color=informational"/>
-    </a>
-</p>
-
-
-<h1 align="center">
-  Check out our partners!
+<div align="center">
+  <h1>✨ EcoMenus (Auto-Build Repository)</h1>
+  <p><b>This is an automated build repository synchronized with the <a href="https://github.com/Auxilor/EcoMenus">Auxilor/EcoMenus</a></b></p>
+  <p>We provide freshly built <code>.jar</code> files directly from the latest upstream source code.</p>
   <br>
-  <div style="width: 50%; margin: 0 auto;">
-  <br>
-    <a href="https://gamersupps.gg/discount/Auxilor?afmc=Auxilor" target="_blank">
-      <img src="https://i.imgur.com/7mFhlQO.png" alt="supps banner">
-    </a>
-    <a href="https://dedimc.promo/Auxilor" target="_blank">
-      <img src="https://i.imgur.com/x9aeH38.png" alt="dedimc banner">
-    </a>
-  <br>
-  </div>
-</h1>
+  <a href="https://github.com/Adivise/EcoMenus/releases">
+    <img alt="Download Auto-Build" src="https://img.shields.io/github/v/release/Adivise/EcoMenus?color=success&label=Download&style=for-the-badge"/>
+  </a>
+</div>
+
+<br>
+<hr>
